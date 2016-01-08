@@ -1,0 +1,21 @@
+body {
+	background-color: #7a0000;
+}
+
+.cajagrande{
+	height: 80%;
+	width: 80%;
+	margin: 10%;
+	border: 0.1em solid red;
+	border-radius: 2em;
+	padding: 5%;
+}
+
+h1, h2, p, i{
+	color: burlywood;
+}
+
+i{
+	font-size: 1.5vw;
+}
+
